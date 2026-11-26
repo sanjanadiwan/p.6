@@ -1,2 +1,6 @@
 edit 1
+<<<<<<< HEAD
 sanju
+=======
+edit 2
+>>>>>>> 39a364a (save local changes to p.txt)
